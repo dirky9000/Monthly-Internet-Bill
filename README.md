@@ -6,6 +6,7 @@ Package letter
 Total hours worked  
 
 This program is written in c++
+
 ## Rubric 
 [This link explains the full project in more detail](https://github.com/dirky9000/Monthly-Internet-Bill/blob/main/docs/Monthly-Internet-Bill-Rubric.pdf)
 
