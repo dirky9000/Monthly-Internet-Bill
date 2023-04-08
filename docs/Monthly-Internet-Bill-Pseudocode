@@ -1,0 +1,22 @@
+Start function main 
+  * Prompt user to enter customer ID number
+  * Prompt user to enter package letter
+  * Prompt user to enter total hours used
+  * Call function calcBill
+  * Call function dispOutput
+  * Return
+End Function main
+
+Start function calcBill
+  * Calculate cost of bill
+  * Return bill
+End function calcBill
+
+Start function dispOutput
+  * Display header
+  * Display customer number
+  * Display package purchased
+  * Display hours used
+  * Display total monthly bill
+  * Return
+End function dispOutput
