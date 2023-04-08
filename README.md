@@ -5,4 +5,8 @@ Customers ID number
 Package letter  
 Total hours worked  
 
+## Rubric 
 [This link explains the full project in more detail](https://github.com/dirky9000/Monthly-Internet-Bill/blob/main/docs/Monthly-Internet-Bill.pdf)
+
+## Pseudocode 
+[Here is my pseudocode for this project]
