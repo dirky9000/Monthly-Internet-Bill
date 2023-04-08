@@ -29,8 +29,11 @@ int main(void)
 		cout<<"Please enter total hours used: ";
 		cin>>total_hours;
 
-		bill = calcBill(total_hours, pack_letter); // Function call
-		dispOutput(bill, total_hours, pack_letter, cust_ID); // Function call			
+		// Function call
+		bill = calcBill(total_hours, pack_letter); 
+
+		// Function call	
+		dispOutput(bill, total_hours, pack_letter, cust_ID); 		
 return 0;
 }
 
