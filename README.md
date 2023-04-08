@@ -5,8 +5,9 @@ Customers ID number
 Package letter  
 Total hours worked  
 
+This program is written in c++
 ## Rubric 
 [This link explains the full project in more detail](https://github.com/dirky9000/Monthly-Internet-Bill/blob/main/docs/Monthly-Internet-Bill-Rubric.pdf)
 
 ## Pseudocode 
-[Here is my pseudocode for this project]
+[This link shows the pseudocode for this project](https://github.com/dirky9000/Monthly-Internet-Bill/blob/main/docs/Monthly-Internet-Bill-Pseudocode)
