@@ -5,6 +5,7 @@ Customers ID number
 Package letter  
 Total hours worked  
 
+## Language
 This program is written in c++
 
 ## Rubric 
